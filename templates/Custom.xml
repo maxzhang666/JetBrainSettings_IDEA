@@ -5,4 +5,10 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="amp" value="@ApiModelProperty(&quot;$name$&quot;)" description="模型字段" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>

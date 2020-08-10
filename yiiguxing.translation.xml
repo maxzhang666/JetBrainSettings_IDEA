@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="渠道" />
+      <item value="市场" />
       <item value="正常" />
       <item value="试销" />
       <item value="组套产品" />
