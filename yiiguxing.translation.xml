@@ -1,0 +1,59 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="正常" />
+      <item value="试销" />
+      <item value="组套产品" />
+      <item value="获取组套产品" />
+      <item value="获取新品" />
+      <item value="或去新品" />
+      <item value="mirage" />
+      <item value="总金额" />
+      <item value="成本补偿" />
+      <item value="容差" />
+      <item value="船务" />
+      <item value="我" />
+      <item value="123" />
+      <item value="当前开票资料已冲销" />
+      <item value="冲销" />
+      <item value="当前开票资料已过账" />
+      <item value="already register" />
+      <item value="当前开票资料已经登记过发票信息" />
+      <item value="发票过账" />
+      <item value="过账" />
+      <item value="发票登记" />
+      <item value="准备" />
+      <item value="登记" />
+      <item value="产品【{0}】未查询到可用的默认包装信息" />
+      <item value="能帮助我找到问题吗" />
+      <item value="能帮我找到问题吗" />
+      <item value="奇怪的是，它不经常出现" />
+      <item value="未能查询到sku[{}]对应的展示码信息" />
+      <item value="未能通过展示码[{0}]查询到sku信息" />
+      <item value="juncture" />
+      <item value="关口" />
+      <item value="自定义" />
+      <item value="custom" />
+      <item value="customer" />
+      <item value="海关" />
+      <item value="报关" />
+      <item value="未查询到对应的客户信息【{0}】" />
+      <item value="税码" />
+      <item value="不可退税额" />
+      <item value="可退税额" />
+      <item value="税额" />
+      <item value="未税金额" />
+      <item value="开票明细" />
+      <item value="对账明细" />
+      <item value="产品【{0}】起运港必填" />
+      <item value="产品【{0}】目的港必填" />
+      <item value="产品【{0}】起运国必填" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="7" />
+      </map>
+    </option>
+  </component>
+</application>

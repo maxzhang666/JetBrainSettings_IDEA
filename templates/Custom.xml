@@ -1,0 +1,8 @@
+<templateSet group="Custom">
+  <template name="re" value="//region $fe$&#10;//endregion" description="代码注释块" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="fe" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
