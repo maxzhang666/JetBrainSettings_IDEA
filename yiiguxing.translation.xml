@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="维护" />
+      <item value="评估维护" />
+      <item value="评估结果维护" />
       <item value="未查询到相关数据" />
       <item value="公司内账未维护" />
-      <item value="维护" />
       <item value="渠道" />
       <item value="市场" />
       <item value="正常" />
@@ -49,8 +51,6 @@
       <item value="税额" />
       <item value="未税金额" />
       <item value="开票明细" />
-      <item value="对账明细" />
-      <item value="产品【{0}】起运港必填" />
     </histories>
     <option name="languageScores">
       <map>
