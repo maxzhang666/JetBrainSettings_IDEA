@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="非新建状态或已存在正在执行的计划，此计划不能执行" />
+      <item value="当前已存在正在执行的计划" />
+      <item value="存在" />
       <item value="维护" />
       <item value="评估维护" />
       <item value="评估结果维护" />
@@ -48,9 +51,6 @@
       <item value="税码" />
       <item value="不可退税额" />
       <item value="可退税额" />
-      <item value="税额" />
-      <item value="未税金额" />
-      <item value="开票明细" />
     </histories>
     <option name="languageScores">
       <map>
