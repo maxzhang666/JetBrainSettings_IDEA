@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="非执行中的计划不能结束，停止处理" />
       <item value="交货准时率" />
       <item value="非新建状态或已存在正在执行的计划，此计划不能执行" />
       <item value="当前已存在正在执行的计划" />
@@ -50,7 +51,6 @@
       <item value="报关" />
       <item value="未查询到对应的客户信息【{0}】" />
       <item value="税码" />
-      <item value="不可退税额" />
     </histories>
     <option name="languageScores">
       <map>
