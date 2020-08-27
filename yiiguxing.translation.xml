@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="任务转移" />
+      <item value="转交" />
       <item value="已评估完成的计划不能关闭！，停止处理" />
       <item value="非执行结束的计划不能进行最终评估结果的维护！" />
       <item value="计划中的评估执行未全部完成，不能结束评估！" />
@@ -49,8 +51,6 @@
       <item value="关口" />
       <item value="自定义" />
       <item value="custom" />
-      <item value="customer" />
-      <item value="海关" />
     </histories>
     <option name="languageScores">
       <map>
