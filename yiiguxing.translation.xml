@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="请选择未进行评估或者驳回的数据进行评估！" />
       <item value="转交" />
       <item value="转移" />
       <item value="评估正在进行中，暂时无法进行审核！" />
@@ -50,7 +51,6 @@
       <item value="能帮助我找到问题吗" />
       <item value="能帮我找到问题吗" />
       <item value="奇怪的是，它不经常出现" />
-      <item value="未能查询到sku[{}]对应的展示码信息" />
     </histories>
     <option name="languageScores">
       <map>
