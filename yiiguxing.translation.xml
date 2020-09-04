@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="评估正在进行中，暂时无法进行审核！" />
       <item value="请选择未进行评估或者驳回的数据进行评估！" />
       <item value="转交" />
       <item value="转移" />
-      <item value="评估正在进行中，暂时无法进行审核！" />
       <item value="审核" />
       <item value="计划已开始或结束" />
       <item value="已开始评估执行的不可以变更评估负责人！" />
