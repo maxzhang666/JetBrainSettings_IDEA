@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SKU[{0}]计划数量不能被该SKU的入箱数整除，要求必须能够整除，否则不允许导入" />
+      <item value="SKU：[{0}] 的库存单位 在系统中不存在" />
       <item value="驳回" />
       <item value="评估正在进行中，暂时无法进行审核！" />
       <item value="请选择未进行评估或者驳回的数据进行评估！" />
@@ -49,8 +51,6 @@
       <item value="准备" />
       <item value="登记" />
       <item value="产品【{0}】未查询到可用的默认包装信息" />
-      <item value="能帮助我找到问题吗" />
-      <item value="能帮我找到问题吗" />
     </histories>
     <option name="languageScores">
       <map>
