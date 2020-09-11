@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="字段" />
+      <item value="fields" />
       <item value="完成他" />
       <item value="完成" />
       <item value="存在未完成审核的数据，不允许进行提交！" />
@@ -49,13 +51,11 @@
       <item value="already register" />
       <item value="当前开票资料已经登记过发票信息" />
       <item value="发票过账" />
-      <item value="过账" />
-      <item value="发票登记" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
