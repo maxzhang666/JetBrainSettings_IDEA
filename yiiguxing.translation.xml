@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="开发者" />
       <item value="导出" />
       <item value="导入" />
       <item value="字段" />
@@ -50,7 +51,6 @@
       <item value="当前开票资料已冲销" />
       <item value="冲销" />
       <item value="当前开票资料已过账" />
-      <item value="already register" />
     </histories>
     <option name="languageScores">
       <map>
