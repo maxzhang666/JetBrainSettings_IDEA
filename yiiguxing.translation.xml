@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="完成他" />
+      <item value="完成" />
       <item value="存在未完成审核的数据，不允许进行提交！" />
       <item value="SKU[{0}]计划数量不能被该SKU的入箱数整除，要求必须能够整除，否则不允许导入" />
       <item value="SKU：[{0}] 的库存单位 在系统中不存在" />
@@ -49,8 +51,6 @@
       <item value="发票过账" />
       <item value="过账" />
       <item value="发票登记" />
-      <item value="准备" />
-      <item value="登记" />
     </histories>
     <option name="languageScores">
       <map>
