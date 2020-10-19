@@ -1,8 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="重复验证" />
+      <item value="广告分组关系重复[{0}]-[{1}]-[{2}]" />
       <item value="重复" />
+      <item value="未能找到展示码[{0}]对应的产品销售视图信息" />
+      <item value="未能找到客户[{0}]" />
+      <item value="广告分组关系已存在[{0}]-[{1}]-[{2}]" />
+      <item value="重复验证" />
       <item value="shdow" />
       <item value="sku[{0}]价格单位不能为空" />
       <item value="sku[{0}]基础采购价不能为空" />
@@ -47,10 +51,6 @@
       <item value="获取组套产品" />
       <item value="获取新品" />
       <item value="或去新品" />
-      <item value="mirage" />
-      <item value="总金额" />
-      <item value="成本补偿" />
-      <item value="容差" />
     </histories>
     <option name="languageScores">
       <map>
