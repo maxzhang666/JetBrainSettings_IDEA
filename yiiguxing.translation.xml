@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Standard" />
+      <item value="统一" />
+      <item value="percent" />
+      <item value="百分" />
+      <item value="百分比" />
       <item value="未能找到[{0}]到[{1}]的汇率" />
       <item value="汇率" />
       <item value="重复交验数据" />
@@ -46,16 +51,11 @@
       <item value="当前已存在正在执行的计划" />
       <item value="存在" />
       <item value="维护" />
-      <item value="评估维护" />
-      <item value="评估结果维护" />
-      <item value="未查询到相关数据" />
-      <item value="公司内账未维护" />
-      <item value="渠道" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="11" />
       </map>
     </option>
   </component>
