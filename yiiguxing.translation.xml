@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="收款" />
+      <item value="收款账户" />
+      <item value="收款单号" />
+      <item value="利润中心" />
+      <item value="收/付款账户" />
       <item value="已存在的促销数据[{0}]-[{1}]-[{2}]-[{3}]-[{4}]-[{5}]-[{6}]-[{7}]" />
       <item value="不存在的广告分组信息[{0}]" />
       <item value="Standard" />
@@ -46,11 +51,6 @@
       <item value="任务转移" />
       <item value="已评估完成的计划不能关闭！，停止处理" />
       <item value="非执行结束的计划不能进行最终评估结果的维护！" />
-      <item value="计划中的评估执行未全部完成，不能结束评估！" />
-      <item value="非执行中的计划不能结束，停止处理" />
-      <item value="交货准时率" />
-      <item value="非新建状态或已存在正在执行的计划，此计划不能执行" />
-      <item value="当前已存在正在执行的计划" />
     </histories>
     <option name="languageScores">
       <map>
