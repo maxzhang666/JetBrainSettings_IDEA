@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="B2B国际订单" />
+      <item value="国际" />
+      <item value="Domestic" />
       <item value="税号[{0}]已存在" />
       <item value="收款" />
       <item value="收款账户" />
@@ -48,14 +51,11 @@
       <item value="转移" />
       <item value="审核" />
       <item value="计划已开始或结束" />
-      <item value="已开始评估执行的不可以变更评估负责人！" />
-      <item value="任务转移" />
-      <item value="已评估完成的计划不能关闭！，停止处理" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
