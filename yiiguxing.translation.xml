@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="分母" />
       <item value="收款单" />
       <item value="B2B国际订单" />
       <item value="国际" />
@@ -50,7 +51,6 @@
       <item value="请选择未进行评估或者驳回的数据进行评估！" />
       <item value="转交" />
       <item value="转移" />
-      <item value="审核" />
     </histories>
     <option name="languageScores">
       <map>
