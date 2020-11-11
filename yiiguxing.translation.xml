@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="手工对账" />
       <item value="归档" />
       <item value="pigeonhole" />
       <item value="退货" />
@@ -50,7 +51,6 @@
       <item value="SKU[{0}]计划数量不能被该SKU的入箱数整除，要求必须能够整除，否则不允许导入" />
       <item value="SKU：[{0}] 的库存单位 在系统中不存在" />
       <item value="驳回" />
-      <item value="评估正在进行中，暂时无法进行审核！" />
     </histories>
     <option name="languageScores">
       <map>
