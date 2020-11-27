@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Designer" />
+      <item value="知识库" />
+      <item value="编码规范" />
       <item value="当前发票已存在对账记录" />
       <item value="存在" />
       <item value="手工对账" />
@@ -48,13 +51,10 @@
       <item value="字段" />
       <item value="fields" />
       <item value="完成他" />
-      <item value="完成" />
-      <item value="存在未完成审核的数据，不允许进行提交！" />
-      <item value="SKU[{0}]计划数量不能被该SKU的入箱数整除，要求必须能够整除，否则不允许导入" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
+        <entry key="CHINESE" value="14" />
         <entry key="ENGLISH" value="14" />
       </map>
     </option>
