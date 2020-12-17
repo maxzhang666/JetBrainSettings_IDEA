@@ -1,7 +1,9 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="824" />
-    <option name="newTranslationDialogY" value="483" />
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogHeight" value="256" />
+    <option name="newTranslationDialogX" value="807" />
+    <option name="newTranslationDialogY" value="475" />
     <histories>
       <item value="条件" />
       <item value="条件&#10;" />
