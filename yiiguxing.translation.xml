@@ -2,9 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogX" value="793" />
-    <option name="newTranslationDialogY" value="475" />
+    <option name="newTranslationDialogX" value="755" />
+    <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="获取所有上下级状态不一致的spu信息" />
+      <item value="获取所有上下级状态不一致的s&#10;pu信息" />
+      <item value="获取所有上下级状态不一致的cpu信息" />
+      <item value="获取所有上下级状态不一致的spu信息获取所有上下级状态不一致的spu信息" />
       <item value="设计" />
       <item value="佣金&#10;" />
       <item value="佣金" />
@@ -51,10 +55,6 @@
       <item value="广告分组关系重复[{0}]-[{1}]-[{2}]" />
       <item value="重复" />
       <item value="未能找到展示码[{0}]对应的产品销售视图信息" />
-      <item value="未能找到客户[{0}]" />
-      <item value="广告分组关系已存在[{0}]-[{1}]-[{2}]" />
-      <item value="重复验证" />
-      <item value="shdow" />
     </histories>
     <option name="languageScores">
       <map>
