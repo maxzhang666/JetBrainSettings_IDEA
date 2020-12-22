@@ -2,9 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogX" value="755" />
-    <option name="newTranslationDialogY" value="342" />
+    <option name="newTranslationDialogX" value="834" />
+    <option name="newTranslationDialogY" value="354" />
     <histories>
+      <item value="整除&#10;" />
       <item value="满足条件&#10;" />
       <item value="满足条件" />
       <item value="获取所有上下级状态不一致的spu信息" />
@@ -54,7 +55,6 @@
       <item value="准备" />
       <item value="zhunbei" />
       <item value="/**      * Determines whether all the members of an array satisfy the specified test.      * @param predicate A function that accepts up to three arguments. The every method calls      * the predicate function for each element in the array until the predicate returns a value      * which is coercible to the Boolean value false, or until the end of the array.      * @param thisArg An object to which the this keyword can refer in the predicate function.      * If thisArg is omitted, undefined is used as the this value.      */     every(predicate: (value: T, index: number, array: T[]) =&gt; unknown, thisArg?: any): boolean;     /**      * Determines whether the specified callback function returns true for any element of an array.      * @param predicate A function that accepts up to three arguments. The some method calls      * the predicate function for each element in the array until the predicate returns a value      * which is coercible to the Boolean value true, or until the end of the array.      * @param thisArg An object to which the this keyword can refer in the predicate function.      * If thisArg is omitted, undefined is used as the this value.      */     some(predicate: (value: T, index: number, array: T[]) =&gt; unknown, thisArg?: any): boolean;" />
-      <item value="广告分组关系重复[{0}]-[{1}]-[{2}]" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608173539468" />
+    <option name="lastTrimTime" value="1608628032081" />
   </component>
 </application>
