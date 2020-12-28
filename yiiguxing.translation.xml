@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="832" />
     <option name="newTranslationDialogY" value="357" />
     <histories>
+      <item value="redis" />
       <item value="Changes to the database connection URL (sonar.jdbc.url) can affect SonarSource licensed products." />
       <item value="true" />
       <item value="Use of the environment variables SONARQUBE_JDBC_USERNAME, SONARQUBE_JDBC_PASSWORD, and SONARQUBE_JDBC_URL is deprecated and will stop working in future releases." />
@@ -54,7 +55,6 @@
       <item value="未能找到[{0}]到[{1}]的汇率" />
       <item value="汇率" />
       <item value="重复交验数据" />
-      <item value="已经" />
     </histories>
     <option name="languageScores">
       <map>
