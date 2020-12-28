@@ -2,8 +2,8 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogX" value="834" />
-    <option name="newTranslationDialogY" value="354" />
+    <option name="newTranslationDialogX" value="832" />
+    <option name="newTranslationDialogY" value="357" />
     <histories>
       <item value="Changes to the database connection URL (sonar.jdbc.url) can affect SonarSource licensed products." />
       <item value="true" />
