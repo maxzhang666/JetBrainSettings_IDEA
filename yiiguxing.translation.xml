@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="834" />
     <option name="newTranslationDialogY" value="354" />
     <histories>
+      <item value="Changes to the database connection URL (sonar.jdbc.url) can affect SonarSource licensed products." />
+      <item value="true" />
+      <item value="Use of the environment variables SONARQUBE_JDBC_USERNAME, SONARQUBE_JDBC_PASSWORD, and SONARQUBE_JDBC_URL is deprecated and will stop working in future releases." />
       <item value="整除&#10;" />
       <item value="满足条件&#10;" />
       <item value="满足条件" />
@@ -52,9 +55,6 @@
       <item value="汇率" />
       <item value="重复交验数据" />
       <item value="已经" />
-      <item value="准备" />
-      <item value="zhunbei" />
-      <item value="/**      * Determines whether all the members of an array satisfy the specified test.      * @param predicate A function that accepts up to three arguments. The every method calls      * the predicate function for each element in the array until the predicate returns a value      * which is coercible to the Boolean value false, or until the end of the array.      * @param thisArg An object to which the this keyword can refer in the predicate function.      * If thisArg is omitted, undefined is used as the this value.      */     every(predicate: (value: T, index: number, array: T[]) =&gt; unknown, thisArg?: any): boolean;     /**      * Determines whether the specified callback function returns true for any element of an array.      * @param predicate A function that accepts up to three arguments. The some method calls      * the predicate function for each element in the array until the predicate returns a value      * which is coercible to the Boolean value true, or until the end of the array.      * @param thisArg An object to which the this keyword can refer in the predicate function.      * If thisArg is omitted, undefined is used as the this value.      */     some(predicate: (value: T, index: number, array: T[]) =&gt; unknown, thisArg?: any): boolean;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608628032081" />
+    <option name="lastTrimTime" value="1609125652768" />
   </component>
 </application>
