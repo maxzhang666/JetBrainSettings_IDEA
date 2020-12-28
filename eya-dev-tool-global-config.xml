@@ -1,8 +1,8 @@
 <application>
   <component name="EyaDevToolGlobalConfig">
-    <option name="author" value="maxzhang" />
+    <option name="author" value="张志方" />
     <option name="copyRight" value="2019 www.zielsmart.com Inc. All rights reserved" />
-    <option name="nacosPath" value="" />
+    <option name="nacosPath" value="$USER_HOME$/Downloads/Nacos/nacos/bin/" />
     <option name="noteInfo" value="注意：本内容仅限于郑州致欧网络科技有限公司内部传阅，禁止外泄以及用于其他的商业目的" />
     <option name="version" value="2.0" />
   </component>
