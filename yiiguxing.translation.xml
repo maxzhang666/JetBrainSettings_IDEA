@@ -5,6 +5,16 @@
     <option name="newTranslationDialogX" value="834" />
     <option name="newTranslationDialogY" value="354" />
     <histories>
+      <item value="我手动访问这个链接在ps使用1时可以正常获取到issue" />
+      <item value="我手动访问这个链接使用1时可以正常获取到issue" />
+      <item value="我手动访问这个链接使用1shi" />
+      <item value="我手动访问这个链接使用1" />
+      <item value="我手动访问这个链接" />
+      <item value="我手动访问这个lian'jie" />
+      <item value="看起来参数ps的值不合法" />
+      <item value="看起来参数ps的值" />
+      <item value="看起来" />
+      <item value="INFO 10:30:11.250 &gt; Downloading issues for SonarQube resource eya-micro-service ERROR 10:30:11.347 &gt; Error 400 on http:sqb.ziel.cnapiissuessearch?componentRoots=eya-micro-service&amp;ps=-1&amp;projectKeys=eya-micro-service&amp;resolved=false : {&quot;errors&quot;:[{&quot;msg&quot;:&quot;Page size must be between 1 and 500 (got -1)&quot;}]} INFO 10:30:11.347 &gt; Downloaded 0 issues in 00:00:097" />
       <item value="Changes to the database connection URL (sonar.jdbc.url) can affect SonarSource licensed products." />
       <item value="true" />
       <item value="Use of the environment variables SONARQUBE_JDBC_USERNAME, SONARQUBE_JDBC_PASSWORD, and SONARQUBE_JDBC_URL is deprecated and will stop working in future releases." />
@@ -45,16 +55,6 @@
       <item value="利润中心" />
       <item value="收/付款账户" />
       <item value="已存在的促销数据[{0}]-[{1}]-[{2}]-[{3}]-[{4}]-[{5}]-[{6}]-[{7}]" />
-      <item value="不存在的广告分组信息[{0}]" />
-      <item value="Standard" />
-      <item value="统一" />
-      <item value="percent" />
-      <item value="百分" />
-      <item value="百分比" />
-      <item value="未能找到[{0}]到[{1}]的汇率" />
-      <item value="汇率" />
-      <item value="重复交验数据" />
-      <item value="已经" />
     </histories>
     <option name="languageScores">
       <map>
