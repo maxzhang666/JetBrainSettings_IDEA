@@ -6,6 +6,10 @@
           <option name="url" value="ssh://git@52.82.114.221:50022/liyaohua/eya-dev-tools.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/maxzhang666/sonar-p3c-pmd.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
