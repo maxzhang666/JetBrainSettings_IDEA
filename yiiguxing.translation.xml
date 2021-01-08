@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="834" />
     <option name="newTranslationDialogY" value="354" />
     <histories>
+      <item value="rider" />
       <item value="我手动访问这个链接在ps使用1时可以正常获取到issue" />
       <item value="我手动访问这个链接使用1时可以正常获取到issue" />
       <item value="我手动访问这个链接使用1shi" />
@@ -54,7 +55,6 @@
       <item value="收款单号" />
       <item value="利润中心" />
       <item value="收/付款账户" />
-      <item value="已存在的促销数据[{0}]-[{1}]-[{2}]-[{3}]-[{4}]-[{5}]-[{6}]-[{7}]" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609125652768" />
+    <option name="lastTrimTime" value="1610096471072" />
   </component>
 </application>
