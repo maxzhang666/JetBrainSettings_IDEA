@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="834" />
     <option name="newTranslationDialogY" value="354" />
     <histories>
+      <item value=" If your script contains monetization methods such as tracking, ads, or miners, you must now disclose these using the @antifeature meta key. Scripts with monetization methods not disclosed with @antifeature are subject to deletion after February 1, 2021. " />
+      <item value="set Verify Sap Internal Sync Time" />
       <item value="rider" />
       <item value="我手动访问这个链接在ps使用1时可以正常获取到issue" />
       <item value="我手动访问这个链接使用1时可以正常获取到issue" />
@@ -53,8 +55,6 @@
       <item value="收款" />
       <item value="收款账户" />
       <item value="收款单号" />
-      <item value="利润中心" />
-      <item value="收/付款账户" />
     </histories>
     <option name="languageScores">
       <map>
