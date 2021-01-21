@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="560" />
     <option name="newTranslationDialogY" value="350" />
     <histories>
+      <item value="国际" />
+      <item value="b 2 b Inter Stock Change Detail" />
       <item value="发送&#10;接收" />
       <item value="发送&#10;jie'shou" />
       <item value="发送&#10;" />
@@ -54,8 +56,6 @@
       <item value="pigeonhole" />
       <item value="退货" />
       <item value="分母" />
-      <item value="收款单" />
-      <item value="B2B国际订单" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1610096471072" />
+    <option name="lastTrimTime" value="1611201949695" />
   </component>
 </application>
