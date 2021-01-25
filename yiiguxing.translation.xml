@@ -4,8 +4,11 @@
     <option name="newTranslationDialogHeight" value="441" />
     <option name="newTranslationDialogWidth" value="1010" />
     <option name="newTranslationDialogX" value="560" />
-    <option name="newTranslationDialogY" value="350" />
+    <option name="newTranslationDialogY" value="319" />
     <histories>
+      <item value="库存" />
+      <item value="库存扣减" />
+      <item value="store" />
       <item value="国际" />
       <item value="b 2 b Inter Stock Change Detail" />
       <item value="发送&#10;接收" />
@@ -53,9 +56,6 @@
       <item value="存在" />
       <item value="手工对账" />
       <item value="归档" />
-      <item value="pigeonhole" />
-      <item value="退货" />
-      <item value="分母" />
     </histories>
     <option name="languageScores">
       <map>
