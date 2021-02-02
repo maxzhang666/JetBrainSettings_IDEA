@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="560" />
     <option name="newTranslationDialogY" value="319" />
     <histories>
+      <item value="对冲&#10;" />
       <item value="库存" />
       <item value="库存扣减" />
       <item value="store" />
@@ -55,7 +56,6 @@
       <item value="当前发票已存在对账记录" />
       <item value="存在" />
       <item value="手工对账" />
-      <item value="归档" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611201949695" />
+    <option name="lastTrimTime" value="1612250283174" />
   </component>
 </application>
