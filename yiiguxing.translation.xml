@@ -3,9 +3,13 @@
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="441" />
     <option name="newTranslationDialogWidth" value="1010" />
-    <option name="newTranslationDialogX" value="560" />
-    <option name="newTranslationDialogY" value="319" />
+    <option name="newTranslationDialogX" value="566" />
+    <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="偏移" />
+      <item value="pian'yi" />
+      <item value="便宜" />
+      <item value="_height" />
       <item value="弃审" />
       <item value="cancel Check" />
       <item value="对冲&#10;" />
@@ -52,10 +56,6 @@
       <item value="feature" />
       <item value="未来" />
       <item value="fea" />
-      <item value="Designer" />
-      <item value="知识库" />
-      <item value="编码规范" />
-      <item value="当前发票已存在对账记录" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1613629959503" />
+    <option name="lastTrimTime" value="1615282625929" />
   </component>
 </application>
