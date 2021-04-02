@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="失败&#10;" />
       <item value="偏移" />
       <item value="pian'yi" />
       <item value="便宜" />
@@ -55,7 +56,6 @@
       <item value="5" />
       <item value="feature" />
       <item value="未来" />
-      <item value="fea" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615282625929" />
+    <option name="lastTrimTime" value="1617355217301" />
   </component>
 </application>
