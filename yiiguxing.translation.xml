@@ -6,6 +6,14 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="购买错误" />
+      <item value="缺货" />
+      <item value="不符合预期" />
+      <item value="[废弃]运费异常" />
+      <item value="异常付款" />
+      <item value="发货问题" />
+      <item value="投递异常" />
+      <item value="质量" />
       <item value="产品信息问题" />
       <item value="昨天" />
       <item value="get End Of Yes" />
@@ -48,14 +56,6 @@
       <item value="满足条件&#10;" />
       <item value="满足条件" />
       <item value="获取所有上下级状态不一致的spu信息" />
-      <item value="获取所有上下级状态不一致的s&#10;pu信息" />
-      <item value="获取所有上下级状态不一致的cpu信息" />
-      <item value="获取所有上下级状态不一致的spu信息获取所有上下级状态不一致的spu信息" />
-      <item value="设计" />
-      <item value="佣金&#10;" />
-      <item value="佣金" />
-      <item value="条件" />
-      <item value="条件&#10;" />
     </histories>
     <option name="languageScores">
       <map>
