@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="从1开始" />
+      <item value="false" />
       <item value="colour" />
       <item value="颜色" />
       <item value="错发" />
@@ -54,8 +56,6 @@
       <item value="不符合预期" />
       <item value="[废弃]运费异常" />
       <item value="异常付款" />
-      <item value="发货问题" />
-      <item value="投递异常" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618296130133" />
+    <option name="lastTrimTime" value="1619401924876" />
   </component>
 </application>
