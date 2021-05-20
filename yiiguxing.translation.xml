@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="566" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="物流投诉" />
+      <item value="投诉" />
+      <item value="endregion" />
       <item value="从1开始" />
       <item value="false" />
       <item value="colour" />
@@ -53,9 +56,6 @@
       <item value="[废弃]ASG丢包" />
       <item value="购买错误" />
       <item value="缺货" />
-      <item value="不符合预期" />
-      <item value="[废弃]运费异常" />
-      <item value="异常付款" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619401924876" />
+    <option name="lastTrimTime" value="1621474247664" />
   </component>
 </application>
