@@ -4,8 +4,13 @@
     <option name="newTranslationDialogHeight" value="441" />
     <option name="newTranslationDialogWidth" value="1010" />
     <option name="newTranslationDialogX" value="566" />
-    <option name="newTranslationDialogY" value="342" />
+    <option name="newTranslationDialogY" value="319" />
     <histories>
+      <item value="一点" />
+      <item value="作者不是我设置的那个" />
+      <item value="作者不是我设置的na'ge'l" />
+      <item value="另一个" />
+      <item value="另外" />
       <item value="三杀" />
       <item value="三傻" />
       <item value="事业部" />
@@ -51,11 +56,6 @@
       <item value="不退货" />
       <item value="不发货地区" />
       <item value="Songmics承担运费" />
-      <item value="FBA退货" />
-      <item value="FBA质量问题" />
-      <item value="FBA发货问题" />
-      <item value="[废弃]重复进帐" />
-      <item value="[废弃]不明原因退回" />
     </histories>
     <option name="languageScores">
       <map>
