@@ -12,5 +12,6 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE:PREVIEW" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.*" />
+    <option name="ENABLE_RENDERED_DOC" value="true" />
   </component>
 </application>
