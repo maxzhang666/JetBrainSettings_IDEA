@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="575" />
     <option name="newTranslationDialogY" value="318" />
     <histories>
+      <item value="artifacts" />
       <item value="娱乐" />
       <item value="一点" />
       <item value="作者不是我设置的那个" />
@@ -55,7 +56,6 @@
       <item value="促销问题" />
       <item value="二手质量" />
       <item value="不退货" />
-      <item value="不发货地区" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624506802331" />
+    <option name="lastTrimTime" value="1625708656669" />
   </component>
 </application>
