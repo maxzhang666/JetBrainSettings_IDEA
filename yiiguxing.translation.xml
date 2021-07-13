@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="575" />
     <option name="newTranslationDialogY" value="318" />
     <histories>
+      <item value="退税发票" />
+      <item value="补款单" />
+      <item value="bu'kuan'dan" />
+      <item value="bu'kuan" />
       <item value="配件单" />
       <item value="换货单" />
       <item value="artifacts" />
@@ -52,10 +56,6 @@
       <item value="售后" />
       <item value="售前问题" />
       <item value="发货前取消交易" />
-      <item value="参数问题" />
-      <item value="功能" />
-      <item value="其它" />
-      <item value="促销问题" />
     </histories>
     <option name="languageScores">
       <map>
