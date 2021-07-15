@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="576" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="扳机" />
+      <item value="ban'ji" />
       <item value="Set the ttl to apply for cache entries. Use {@link DurationZERO} to declare an eternal cache." />
       <item value="退税发票" />
       <item value="补款单" />
@@ -54,8 +56,6 @@
       <item value="安装" />
       <item value="多发" />
       <item value="多付" />
-      <item value="售后" />
-      <item value="售前问题" />
     </histories>
     <option name="languageScores">
       <map>
