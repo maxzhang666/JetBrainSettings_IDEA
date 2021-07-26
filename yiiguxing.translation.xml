@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="576" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="Automatically resolve merge request diff discussions when they become outdated " />
       <item value="专业" />
       <item value="滚筒" />
       <item value="tun" />
@@ -55,7 +56,6 @@
       <item value="少发" />
       <item value="少付" />
       <item value="客户建议" />
-      <item value="客户承担退货运费" />
     </histories>
     <option name="languageScores">
       <map>
