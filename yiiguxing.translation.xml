@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="576" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="transform" />
+      <item value="转换" />
+      <item value="sku trans" />
       <item value="Versandkosten" />
       <item value="business Group" />
       <item value="Automatically resolve merge request diff discussions when they become outdated " />
@@ -53,9 +56,6 @@
       <item value="多发货" />
       <item value="多" />
       <item value="多发&#9;" />
-      <item value="少发货" />
-      <item value="Less hair" />
-      <item value="少发" />
     </histories>
     <option name="languageScores">
       <map>
