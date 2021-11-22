@@ -4,8 +4,11 @@
     <option name="newTranslationDialogHeight" value="441" />
     <option name="newTranslationDialogWidth" value="1010" />
     <option name="newTranslationDialogX" value="580" />
-    <option name="newTranslationDialogY" value="498" />
+    <option name="newTranslationDialogY" value="319" />
     <histories>
+      <item value="过程" />
+      <item value="过程集" />
+      <item value="process" />
       <item value="archived" />
       <item value="archive" />
       <item value="收件" />
@@ -53,19 +56,16 @@
       <item value="物流投诉" />
       <item value="投诉" />
       <item value="endregion" />
-      <item value="从1开始" />
-      <item value="false" />
-      <item value="colour" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="58" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636964178608" />
+    <option name="lastTrimTime" value="1637569303383" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
