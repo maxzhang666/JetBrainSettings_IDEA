@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="580" />
     <option name="newTranslationDialogY" value="319" />
     <histories>
+      <item value="分钟" />
       <item value="过程" />
       <item value="过程集" />
       <item value="process" />
@@ -55,12 +56,11 @@
       <item value="事业部" />
       <item value="物流投诉" />
       <item value="投诉" />
-      <item value="endregion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="67" />
       </map>
     </option>
   </component>
