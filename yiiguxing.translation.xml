@@ -3,9 +3,10 @@
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="441" />
     <option name="newTranslationDialogWidth" value="1010" />
-    <option name="newTranslationDialogX" value="580" />
-    <option name="newTranslationDialogY" value="319" />
+    <option name="newTranslationDialogX" value="282" />
+    <option name="newTranslationDialogY" value="202" />
     <histories>
+      <item value="Indicates if a collection is due on delivery (Should be set to true for Swap it Reverse It Services)" />
       <item value="分钟" />
       <item value="过程" />
       <item value="过程集" />
@@ -55,17 +56,16 @@
       <item value="三傻" />
       <item value="事业部" />
       <item value="物流投诉" />
-      <item value="投诉" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="ENGLISH" value="68" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637569303383" />
+    <option name="lastTrimTime" value="1638860526546" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
