@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="282" />
     <option name="newTranslationDialogY" value="202" />
     <histories>
+      <item value="A particular area" />
       <item value="Indicates if a collection is due on delivery (Should be set to true for Swap it Reverse It Services)" />
       <item value="分钟" />
       <item value="过程" />
@@ -55,12 +56,11 @@
       <item value="三杀" />
       <item value="三傻" />
       <item value="事业部" />
-      <item value="物流投诉" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="ENGLISH" value="69" />
       </map>
     </option>
   </component>
