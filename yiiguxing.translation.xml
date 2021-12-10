@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="282" />
     <option name="newTranslationDialogY" value="202" />
     <histories>
+      <item value="夕阳红老年打工组" />
       <item value="Is liability required (truefalse)" />
       <item value="A particular area" />
       <item value="Indicates if a collection is due on delivery (Should be set to true for Swap it Reverse It Services)" />
@@ -55,7 +56,6 @@
       <item value="另一个" />
       <item value="另外" />
       <item value="三杀" />
-      <item value="三傻" />
     </histories>
     <option name="languageScores">
       <map>
