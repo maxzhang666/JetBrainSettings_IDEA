@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="282" />
     <option name="newTranslationDialogY" value="202" />
     <histories>
+      <item value="操作" />
       <item value="夕阳红老年打工组" />
       <item value="Is liability required (truefalse)" />
       <item value="A particular area" />
@@ -55,17 +56,16 @@
       <item value="作者不是我设置的na'ge'l" />
       <item value="另一个" />
       <item value="另外" />
-      <item value="三杀" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="CHINESE" value="79" />
+        <entry key="ENGLISH" value="77" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1638860526546" />
+    <option name="lastTrimTime" value="1640685611330" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
