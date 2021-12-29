@@ -1,0 +1,7 @@
+<templateSet group="Java">
+  <template name="dao" value="import lombok.AllArgsConstructor;&#10;import lombok.Data;&#10;import lombok.NoArgsConstructor;&#10;&#10;@Data&#10;@NoArgsConstructor&#10;@AllArgsConstructor" description="类头" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
