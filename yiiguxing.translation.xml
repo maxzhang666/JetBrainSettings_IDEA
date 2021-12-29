@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="282" />
     <option name="newTranslationDialogY" value="202" />
     <histories>
+      <item value="Shipper’s six digit alphanumeric account number. Must be associated &#10;with the UserId specified in the AccessRequest. The account must be a &#10;valid UPS account number that is active. For US, PR and CA accounts, &#10;the account must be either a daily pickup account, an occasional &#10;account, or a customer B.I.N account. Drop Shipper accounts are valid &#10;for return service shipments only if the account is Trade Direct (TD) &#10;enabled. All other accounts must be either a daily pickup account or an &#10;occasional account." />
       <item value="操作" />
       <item value="夕阳红老年打工组" />
       <item value="Is liability required (truefalse)" />
@@ -55,11 +56,10 @@
       <item value="作者不是我设置的那个" />
       <item value="作者不是我设置的na'ge'l" />
       <item value="另一个" />
-      <item value="另外" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
+        <entry key="CHINESE" value="80" />
         <entry key="ENGLISH" value="77" />
       </map>
     </option>
