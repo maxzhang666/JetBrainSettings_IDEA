@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="282" />
     <option name="newTranslationDialogY" value="202" />
     <histories>
+      <item value="Destination Countries or Territories" />
       <item value="Routing Instruction Container" />
       <item value="Width of the label image. For IN, use whole inches. &#10;For EPL2, ZPL and SPL Labels. Valid value is 4. Note: Label Image will &#10;only scale up to 4 X 6, even when requesting 4 X 8." />
       <item value="旋转" />
@@ -55,11 +56,10 @@
       <item value="The Shipper street address including name and number (when &#10;applicable). &#10;Up to three occurrences are allowed; only the first is printed on the &#10;label. 35 characters are accepted, but for the first occurrence, only 30 &#10;characters will be printed on the label for return shipments." />
       <item value="Shippers Attention Name. For forward Shipment 35 characters are accepted, but only 30 characters will be printed on the label. &#10;Required if destination is international. Required if Invoice and CO International forms are requested and the ShipFrom address is not present." />
       <item value="Shippers Attention Name. For forward Shipment 35 characters are accepted, but only 30 characters will be printed on the label. &#10;Required if destination is international. Required if Invoice and CO International forms are requested and the ShipFrom address is not &#10;present." />
-      <item value="Shippers Attention Name. For forward Shipment 35 characters are accepted, but only 30 characters will be printed on the label. &#10;Required if destination is international. Required if Invoice and CO &#10;International forms are requested and the ShipFrom address is not &#10;present." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
+        <entry key="CHINESE" value="120" />
         <entry key="ENGLISH" value="105" />
       </map>
     </option>
