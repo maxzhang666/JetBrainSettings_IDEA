@@ -1,12 +1,31 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="441" />
-    <option name="newTranslationDialogWidth" value="1010" />
+    <option name="newTranslationDialogHeight" value="556" />
+    <option name="newTranslationDialogWidth" value="1629" />
     <option name="newTranslationDialogX" value="282" />
     <option name="newTranslationDialogY" value="202" />
     <histories>
+      <item value="Shipper’s six digit alphanumeric account number. Must be associated with the UserId specified in the AccessRequest. The account must be a valid UPS account number that is active. For US, PR and CA accounts, the account must be either a daily pickup account, an occasional account, or a customer B.I.N account. Drop Shipper accounts are valid for return service shipments only if the account is Trade Direct (TD) enabled. All other accounts must be either a daily pickup account or an occasional account." />
+      <item value="Shipper’s six digit alphanumeric account number. Must be associated with the UserId specified in the AccessRequest. The account must be a valid UPS account number that is active. For US, PR and CA accounts, &#10;the account must be either a daily pickup account, an occasional account, or a customer B.I.N account. Drop Shipper accounts are valid for return service shipments only if the account is Trade Direct (TD) enabled. All other accounts must be either a daily pickup account or an occasional account." />
+      <item value="Shipper’s six digit alphanumeric account number. Must be associated with the UserId specified in the AccessRequest. The account must be a valid UPS account number that is active. For US, PR and CA accounts, &#10;the account must be either a daily pickup account, an occasional account, or a customer B.I.N account. Drop Shipper accounts are valid for return service shipments only if the account is Trade Direct (TD) enabled. All other accounts must be either a daily pickup account or an &#10;occasional account." />
+      <item value="Shipper’s six digit alphanumeric account number. Must be associated with the UserId specified in the AccessRequest. The account must be a valid UPS account number that is active. For US, PR and CA accounts, &#10;the account must be either a daily pickup account, an occasional account, or a customer B.I.N account. Drop Shipper accounts are valid for return service shipments only if the account is Trade Direct (TD) &#10;enabled. All other accounts must be either a daily pickup account or an &#10;occasional account." />
+      <item value="Shipper’s six digit alphanumeric account number. Must be associated with the UserId specified in the AccessRequest. The account must be a valid UPS account number that is active. For US, PR and CA accounts, &#10;the account must be either a daily pickup account, an occasional account, or a customer B.I.N account. Drop Shipper accounts are valid &#10;for return service shipments only if the account is Trade Direct (TD) &#10;enabled. All other accounts must be either a daily pickup account or an &#10;occasional account." />
+      <item value="Shipper’s six digit alphanumeric account number. Must be associated with the UserId specified in the AccessRequest. The account must be a valid UPS account number that is active. For US, PR and CA accounts, &#10;the account must be either a daily pickup account, an occasional &#10;account, or a customer B.I.N account. Drop Shipper accounts are valid &#10;for return service shipments only if the account is Trade Direct (TD) &#10;enabled. All other accounts must be either a daily pickup account or an &#10;occasional account." />
+      <item value="Shipper’s six digit alphanumeric account number. Must be associated with the UserId specified in the AccessRequest. The account must be a &#10;valid UPS account number that is active. For US, PR and CA accounts, &#10;the account must be either a daily pickup account, an occasional &#10;account, or a customer B.I.N account. Drop Shipper accounts are valid &#10;for return service shipments only if the account is Trade Direct (TD) &#10;enabled. All other accounts must be either a daily pickup account or an &#10;occasional account." />
       <item value="Shipper’s six digit alphanumeric account number. Must be associated &#10;with the UserId specified in the AccessRequest. The account must be a &#10;valid UPS account number that is active. For US, PR and CA accounts, &#10;the account must be either a daily pickup account, an occasional &#10;account, or a customer B.I.N account. Drop Shipper accounts are valid &#10;for return service shipments only if the account is Trade Direct (TD) &#10;enabled. All other accounts must be either a daily pickup account or an &#10;occasional account." />
+      <item value="the shipper street address including name and number (when applicable). up to three occurrences are allowed; only the first is printed on the label. 35 characters are accepted, but for the first occurrence, only 30 characters will be printed on the label for return shipments." />
+      <item value="The Shipper street address including name and number (when applicable). &#10;Up to three occurrences are allowed; only the first is printed on the label. 35 characters are accepted, but for the first occurrence, only 30 characters will be printed on the label for return shipments." />
+      <item value="The Shipper street address including name and number (when applicable). &#10;Up to three occurrences are allowed; only the first is printed on the label. 35 characters are accepted, but for the first occurrence, only 30 &#10;characters will be printed on the label for return shipments." />
+      <item value="The Shipper street address including name and number (when applicable). &#10;Up to three occurrences are allowed; only the first is printed on the &#10;label. 35 characters are accepted, but for the first occurrence, only 30 &#10;characters will be printed on the label for return shipments." />
+      <item value="The Shipper street address including name and number (when &#10;applicable). &#10;Up to three occurrences are allowed; only the first is printed on the &#10;label. 35 characters are accepted, but for the first occurrence, only 30 &#10;characters will be printed on the label for return shipments." />
+      <item value="Shippers Attention Name. For forward Shipment 35 characters are accepted, but only 30 characters will be printed on the label. &#10;Required if destination is international. Required if Invoice and CO International forms are requested and the ShipFrom address is not present." />
+      <item value="Shippers Attention Name. For forward Shipment 35 characters are accepted, but only 30 characters will be printed on the label. &#10;Required if destination is international. Required if Invoice and CO International forms are requested and the ShipFrom address is not &#10;present." />
+      <item value="Shippers Attention Name. For forward Shipment 35 characters are accepted, but only 30 characters will be printed on the label. &#10;Required if destination is international. Required if Invoice and CO &#10;International forms are requested and the ShipFrom address is not &#10;present." />
+      <item value="Shippers Attention Name. For forward Shipment 35 characters are &#10;accepted, but only 30 characters will be printed on the label. &#10;Required if destination is international. Required if Invoice and CO &#10;International forms are requested and the ShipFrom address is not &#10;present." />
+      <item value="Shipper’s Tax Identification Number. &#10;Conditionally required if EEI form (International forms) is requested and &#10;ship From is not mentioned.&#10;&#10;&#10;required:cond" />
+      <item value="Shipper’s Tax Identification Number. &#10;Conditionally required if EEI form (International forms) is requested and &#10;ship From is not mentioned.&#10;&#10;&#10;required:c" />
+      <item value="Shipper’s Tax Identification Number. &#10;Conditionally required if EEI form (International forms) is requested and &#10;ship From is not mentioned." />
       <item value="操作" />
       <item value="夕阳红老年打工组" />
       <item value="Is liability required (truefalse)" />
@@ -37,30 +56,11 @@
       <item value="sku trans" />
       <item value="Versandkosten" />
       <item value="business Group" />
-      <item value="Automatically resolve merge request diff discussions when they become outdated " />
-      <item value="专业" />
-      <item value="滚筒" />
-      <item value="tun" />
-      <item value="扳机" />
-      <item value="ban'ji" />
-      <item value="Set the ttl to apply for cache entries. Use {@link DurationZERO} to declare an eternal cache." />
-      <item value="退税发票" />
-      <item value="补款单" />
-      <item value="bu'kuan'dan" />
-      <item value="bu'kuan" />
-      <item value="配件单" />
-      <item value="换货单" />
-      <item value="artifacts" />
-      <item value="娱乐" />
-      <item value="一点" />
-      <item value="作者不是我设置的那个" />
-      <item value="作者不是我设置的na'ge'l" />
-      <item value="另一个" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="79" />
       </map>
     </option>
   </component>
