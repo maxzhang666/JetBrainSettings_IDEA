@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="282" />
     <option name="newTranslationDialogY" value="202" />
     <histories>
+      <item value="不友善的话" />
+      <item value="不友善的表达" />
+      <item value="不友善的" />
+      <item value="不友善的内容" />
       <item value="UPS account number. &#10;Must be the same UPS account number as the one provided in Shipper/ShipperNumber. Either this element or one of the sibling elements CreditCard or AlternatePaymentMethod must be provided, but all of them may not be provided." />
       <item value="UPS account number. &#10;Must be the same UPS account number as the one provided in Shipper/ShipperNumber. Either this element or one of the sibling elements CreditCard or AlternatePaymentMethod must be provided, but &#10;all of them may not be provided." />
       <item value="UPS account number. &#10;Must be the same UPS account number as the one provided in &#10;Shipper/ShipperNumber. Either this element or one of the sibling elements CreditCard or AlternatePaymentMethod must be provided, but &#10;all of them may not be provided." />
@@ -52,15 +56,11 @@
       <item value="Shipper’s Tax Identification Number. &#10;Conditionally required if EEI form (International forms) is requested and &#10;ship From is not mentioned.&#10;&#10;&#10;required:cond" />
       <item value="Shipper’s Tax Identification Number. &#10;Conditionally required if EEI form (International forms) is requested and &#10;ship From is not mentioned.&#10;&#10;&#10;required:c" />
       <item value="Shipper’s Tax Identification Number. &#10;Conditionally required if EEI form (International forms) is requested and &#10;ship From is not mentioned." />
-      <item value="操作" />
-      <item value="夕阳红老年打工组" />
-      <item value="Is liability required (truefalse)" />
-      <item value="A particular area" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="89" />
       </map>
     </option>
   </component>
