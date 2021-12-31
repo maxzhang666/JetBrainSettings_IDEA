@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="282" />
     <option name="newTranslationDialogY" value="202" />
     <histories>
+      <item value="furniture" />
+      <item value="furn" />
+      <item value="fu" />
+      <item value="Merchandise description of package. &#10;Required for shipment with return service." />
       <item value="For Mail Innovation shipments, up to 3 reference numbers are &#10;supported. If 5 reference numbers are specified (CostCenter, &#10;PackageID, and 3 ReferenceNumbers) the 3 desigated by the &#10;ReferenceNumber container will not be visible on 4x6 label supported &#10;by the API. These additional reference numbers are only be visible on &#10;the 4x8 label." />
       <item value="Destination Countries or Territories" />
       <item value="Routing Instruction Container" />
@@ -52,15 +56,11 @@
       <item value="Shipper’s six digit alphanumeric account number. Must be associated &#10;with the UserId specified in the AccessRequest. The account must be a &#10;valid UPS account number that is active. For US, PR and CA accounts, &#10;the account must be either a daily pickup account, an occasional &#10;account, or a customer B.I.N account. Drop Shipper accounts are valid &#10;for return service shipments only if the account is Trade Direct (TD) &#10;enabled. All other accounts must be either a daily pickup account or an &#10;occasional account." />
       <item value="the shipper street address including name and number (when applicable). up to three occurrences are allowed; only the first is printed on the label. 35 characters are accepted, but for the first occurrence, only 30 characters will be printed on the label for return shipments." />
       <item value="The Shipper street address including name and number (when applicable). &#10;Up to three occurrences are allowed; only the first is printed on the label. 35 characters are accepted, but for the first occurrence, only 30 characters will be printed on the label for return shipments." />
-      <item value="The Shipper street address including name and number (when applicable). &#10;Up to three occurrences are allowed; only the first is printed on the label. 35 characters are accepted, but for the first occurrence, only 30 &#10;characters will be printed on the label for return shipments." />
-      <item value="The Shipper street address including name and number (when applicable). &#10;Up to three occurrences are allowed; only the first is printed on the &#10;label. 35 characters are accepted, but for the first occurrence, only 30 &#10;characters will be printed on the label for return shipments." />
-      <item value="The Shipper street address including name and number (when &#10;applicable). &#10;Up to three occurrences are allowed; only the first is printed on the &#10;label. 35 characters are accepted, but for the first occurrence, only 30 &#10;characters will be printed on the label for return shipments." />
-      <item value="Shippers Attention Name. For forward Shipment 35 characters are accepted, but only 30 characters will be printed on the label. &#10;Required if destination is international. Required if Invoice and CO International forms are requested and the ShipFrom address is not present." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="127" />
+        <entry key="ENGLISH" value="108" />
       </map>
     </option>
   </component>
