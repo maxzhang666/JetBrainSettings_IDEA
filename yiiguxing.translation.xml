@@ -2,10 +2,33 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="556" />
-    <option name="newTranslationDialogWidth" value="1627" />
+    <option name="newTranslationDialogWidth" value="1623" />
     <option name="newTranslationDialogX" value="603" />
     <option name="newTranslationDialogY" value="462" />
     <histories>
+      <item value="281行之前都是webpack自动生成的ES6转ES5的辅助函数&#10;&#10;281行之后的每一行代码都没有包含单字母的变量名&#10;&#10;我不理解为什么举报一次就能删一次,如果需要我可以把我的打包配置文件发给你" />
+      <item value="281行之前都是webpack自动生成的ES6转ES5的辅助函数&#10;&#10;281行之后的每一行代码都没有包含单字母的变量名&#10;&#10;我不理解为什么举报一次就能删一次,如果需要我可以把我的打包配置" />
+      <item value="281行之前都是webpack自动生成的ES6转ES5的辅助函数&#10;&#10;281行之后的每一行代码都没有包含单字母的变量名&#10;&#10;我不理解为什么举报一次就能删一次,如果需要我可以把我的打包配置w" />
+      <item value="281行之前都是webpack自动生成的ES6转ES5的辅助函数&#10;&#10;281行之后的每一行代码都没有包含单字母的变量名&#10;&#10;我不理解为什么举报一次就能删一次,如果需要我可以ba'wo" />
+      <item value="281行之前都是webpack自动生成的ES6转ES5的辅助函数&#10;&#10;281行之后的每一行代码都没有包含单字母的变量名&#10;&#10;我不理解为什么举报一次就能删一次,如果" />
+      <item value="281行之前都是webpack自动生成的ES6转ES5的辅助函数&#10;&#10;281行之后的每一行代码都没有包含单字母的变量名&#10;&#10;我不理解为什么举报一次就能删一次," />
+      <item value="281行之前都是webpack自动生成的ES6转ES5的辅助函数&#10;&#10;281行之后的每一行代码都没有包含单字母的变量名&#10;&#10;我不理解为什么举报一次就能删一次" />
+      <item value="281行之前都是webpack自动生成的ES6转ES5的辅助函数&#10;&#10;281行之后的每一行代码都没有包含单字母的变量名&#10;&#10;我不理解为什么" />
+      <item value="281行之前都是webpack自动生成的ES6转ES5的辅助函数&#10;&#10;281行之后的每一行代码都没有包含单字母的变量名" />
+      <item value="281行之前都是webpack自动生成的ES6转ES5的辅助函数&#10;&#10;281行之后的每一行代码都没有包含" />
+      <item value="281行之前都是webpack自动生成的ES6转ES5的辅助函数&#10;&#10;281行之后的mei'yi'e" />
+      <item value="281行之前都是webpack自动生成的ES6转ES5的辅助函数&#10;&#10;281行之后的mei'yi" />
+      <item value="281行之前都是webpack自动生成的ES6转ES5的辅助函数&#10;&#10;281行之后的" />
+      <item value="281行之前都是webpack自动生成的ES6转ES5的辅助函数&#10;&#10;281" />
+      <item value="281行之前都是webpack自动生成的ES6转ES5的辅助函数&#10;&#10;" />
+      <item value="281行之前都是webpack自动生成的ES6转" />
+      <item value="281行之前都是webpack自动生成的ES6" />
+      <item value="281行之前都是webpack自动生成的ES" />
+      <item value="281行之前都是webpack自动生成的辅助" />
+      <item value="281行之前都是webpack自动生成的" />
+      <item value="281行之前都是webpack" />
+      <item value="281行" />
+      <item value="&#10;&#10;@Max Zhang Please post a version without one-letter variable names.&#10;" />
       <item value="重复且饱含恶意的多次举报脚本" />
       <item value="重复且饱含恶意的多次举报" />
       <item value="重复且饱含恶意的多次" />
@@ -33,34 +56,11 @@
       <item value="Width of the label image. For IN, use whole inches. &#10;For EPL2, ZPL and SPL Labels. Valid value is 4. Note: Label Image will &#10;only scale up to 4 X 6, even when requesting 4 X 8." />
       <item value="旋转" />
       <item value="选择" />
-      <item value="不友善的话" />
-      <item value="不友善的表达" />
-      <item value="不友善的" />
-      <item value="不友善的内容" />
-      <item value="UPS account number. &#10;Must be the same UPS account number as the one provided in Shipper/ShipperNumber. Either this element or one of the sibling elements CreditCard or AlternatePaymentMethod must be provided, but all of them may not be provided." />
-      <item value="UPS account number. &#10;Must be the same UPS account number as the one provided in Shipper/ShipperNumber. Either this element or one of the sibling elements CreditCard or AlternatePaymentMethod must be provided, but &#10;all of them may not be provided." />
-      <item value="UPS account number. &#10;Must be the same UPS account number as the one provided in &#10;Shipper/ShipperNumber. Either this element or one of the sibling elements CreditCard or AlternatePaymentMethod must be provided, but &#10;all of them may not be provided." />
-      <item value="UPS account number. &#10;Must be the same UPS account number as the one provided in &#10;Shipper/ShipperNumber. Either this element or one of the sibling &#10;elements CreditCard or AlternatePaymentMethod must be provided, but &#10;all of them may not be provided." />
-      <item value="Container for the BillShipper billing option. The three payment methods that are available for the Bill Shipper billing option are alternate payment method, account number or credit card.&#10;This element or its sibling element, BillReceiver, BillThirdParty or ConsigneeBilledIndicator, must be present but no more than one can be present." />
-      <item value="Container for the BillShipper billing option. The three payment methods that are available for the Bill Shipper billing option are alternate payment method, account number or credit card.&#10;This element or its sibling element, BillReceiver, BillThirdParty or ConsigneeBilledIndicator, must be present but no more than one can &#10;be present." />
-      <item value="Container for the BillShipper billing option. The three payment methods that are available for the Bill Shipper billing option are alternate payment method, account number or credit card.&#10;This element or its sibling element, BillReceiver, BillThirdParty or &#10;ConsigneeBilledIndicator, must be present but no more than one can &#10;be present." />
-      <item value="Container for the BillShipper billing option. The three payment methods that are available for the Bill Shipper billing option are alternate &#10;payment method, account number or credit card.&#10;This element or its sibling element, BillReceiver, BillThirdParty or &#10;ConsigneeBilledIndicator, must be present but no more than one can &#10;be present." />
-      <item value="Container for the BillShipper billing option. The three payment methods &#10;that are available for the Bill Shipper billing option are alternate &#10;payment method, account number or credit card.&#10;This element or its sibling element, BillReceiver, BillThirdParty or &#10;ConsigneeBilledIndicator, must be present but no more than one can &#10;be present." />
-      <item value="Container for the BillShipper billing option. The three payment methods &#10;that are available for the Bill Shipper billing option are alternate &#10;payment method, account number or credit card." />
-      <item value="有效值：&#10;01 = 交通&#10;02 = 关税和税收&#10;03 = 首选经纪人&#10;运输费用类型 01 = 需要运输。 02 = Duties and Taxes 的装运费用类型不是必需的；但是，此收费类型对合格的国内货件无效。符合条件的国内货件是任何符合以下条件之一的货件：1) 始发地和目的地国家或地区相同。 2)&#10;美国到 PR 发货。 3) PR 到美国发货。 4) 始发地和目的地国家或地区均为欧盟国家和地区，且不存在 GoodsNotInFreeCirculation 指标。 5) 始发地和目的地IATA代码相同。" />
-      <item value="Valid values: &#10;01 = Transportation&#10;02 = Duties and Taxes &#10;03 = Broker of Choice &#10;A shipment charge type of 01 = Transportation is required. A shipment charge type of 02 = Duties and Taxes is not required; however, this charge type is invalid for Qualified Domestic Shipments. A Qualified Domestic Shipment is any shipment in which one of the following applies: 1) The origin and destination country or territory is the same. 2) &#10;US to PR shipment. 3) PR to US shipment. 4) The origin and destination country or territory are both European Union countries and territories and the GoodsNotInFreeCirculation indicator is not present. 5) The origin and destination IATA code is the same." />
-      <item value="Valid values: &#10;01 = Transportation&#10;02 = Duties and Taxes &#10;03 = Broker of Choice &#10;A shipment charge type of 01 = Transportation is required. A shipment charge type of 02 = Duties and Taxes is not required; however, this charge type is invalid for Qualified Domestic Shipments. A Qualified Domestic Shipment is any shipment in which one of the following applies: 1) The origin and destination country or territory is the same. 2) &#10;US to PR shipment. 3) PR to US shipment. 4) The origin and destination country or territory are both European Union countries and territories and the GoodsNotInFreeCirculation indicator is not present. 5) The origin and destination IATA code is the same. 03 = Broker of Choice" />
-      <item value="Valid values: &#10;01 = Transportation&#10;02 = Duties and Taxes 03 = Broker of Choice &#10;A shipment charge type of 01 = Transportation is required. A shipment charge type of 02 = Duties and Taxes is not required; however, this charge type is invalid for Qualified Domestic Shipments. A Qualified Domestic Shipment is any shipment in which one of the following applies: 1) The origin and destination country or territory is the same. 2) &#10;US to PR shipment. 3) PR to US shipment. 4) The origin and destination country or territory are both European Union countries and territories and the GoodsNotInFreeCirculation indicator is not present. 5) The origin and destination IATA code is the same. 03 = Broker of Choice" />
-      <item value="Valid values: &#10;01 = Transportation&#10; 02 = Duties and Taxes 03 = Broker of Choice &#10;A shipment charge type of 01 = Transportation is required. A shipment charge type of 02 = Duties and Taxes is not required; however, this charge type is invalid for Qualified Domestic Shipments. A Qualified Domestic Shipment is any shipment in which one of the following applies: 1) The origin and destination country or territory is the same. 2) &#10;US to PR shipment. 3) PR to US shipment. 4) The origin and destination country or territory are both European Union countries and territories and the GoodsNotInFreeCirculation indicator is not present. 5) The origin and destination IATA code is the same. 03 = Broker of Choice" />
-      <item value="Valid values: &#10;01 = Transportation 02 = Duties and Taxes 03 = Broker of Choice &#10;A shipment charge type of 01 = Transportation is required. A shipment charge type of 02 = Duties and Taxes is not required; however, this charge type is invalid for Qualified Domestic Shipments. A Qualified Domestic Shipment is any shipment in which one of the following applies: 1) The origin and destination country or territory is the same. 2) &#10;US to PR shipment. 3) PR to US shipment. 4) The origin and destination country or territory are both European Union countries and territories and the GoodsNotInFreeCirculation indicator is not present. 5) The origin and destination IATA code is the same. 03 = Broker of Choice" />
-      <item value="Valid values: 01 = Transportation 02 = Duties and Taxes 03 = Broker of Choice &#10;A shipment charge type of 01 = Transportation is required. A shipment charge type of 02 = Duties and Taxes is not required; however, this charge type is invalid for Qualified Domestic Shipments. A Qualified Domestic Shipment is any shipment in which one of the following applies: 1) The origin and destination country or territory is the same. 2) &#10;US to PR shipment. 3) PR to US shipment. 4) The origin and destination country or territory are both European Union countries and territories and the GoodsNotInFreeCirculation indicator is not present. 5) The origin and destination IATA code is the same. 03 = Broker of Choice" />
-      <item value="Valid values: 01 = Transportation 02 = Duties and Taxes 03 = Broker of Choice &#10;A shipment charge type of 01 = Transportation is required. A shipment charge type of 02 = Duties and Taxes is not required; however, this charge type is invalid for Qualified Domestic Shipments. A Qualified Domestic Shipment is any shipment in which one of the following applies: 1) The origin and destination country or territory is the same. 2) &#10;US to PR shipment. 3) PR to US shipment. 4) The origin and destination country or territory are both European Union countries and territories and the GoodsNotInFreeCirculation indicator is not present. 5) The origin and destination IATA code is the same. &#10;03 = Broker of Choice" />
-      <item value="Valid values: 01 = Transportation 02 = Duties and Taxes 03 = Broker of Choice &#10;A shipment charge type of 01 = Transportation is required. A shipment charge type of 02 = Duties and Taxes is not required; however, this charge type is invalid for Qualified Domestic Shipments. A Qualified Domestic Shipment is any shipment in which one of the following applies: 1) The origin and destination country or territory is the same. 2) &#10;US to PR shipment. 3) PR to US shipment. 4) The origin and destination country or territory are both European Union countries and territories and the GoodsNotInFreeCirculation indicator is not present. &#10;5) The origin and destination IATA code is the same. &#10;03 = Broker of Choice" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="CHINESE" value="165" />
+        <entry key="ENGLISH" value="145" />
       </map>
     </option>
   </component>
