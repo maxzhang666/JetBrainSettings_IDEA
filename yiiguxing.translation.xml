@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="556" />
-    <option name="newTranslationDialogWidth" value="1619" />
-    <option name="newTranslationDialogX" value="603" />
-    <option name="newTranslationDialogY" value="462" />
+    <option name="newTranslationDialogWidth" value="1617" />
+    <option name="newTranslationDialogX" value="604" />
+    <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="boycott" />
+      <item value="bo'y'c" />
       <item value="你好我的脚本没有最小化代码,我提交了申诉,可以帮我看一下么" />
       <item value="你好我的脚本没有最小化代码,我提交了申诉" />
       <item value="你好我的脚本" />
@@ -54,13 +56,11 @@
       <item value="重复切" />
       <item value="重复" />
       <item value="并没有最小化&#10;代码使用webpack打包且未使用混淆参数" />
-      <item value="并没有最小化&#10;代码使用webpack打包且未使用混淆" />
-      <item value="并没有最小化&#10;代码使用webpack打包且未" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="176" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="187" />
+        <entry key="ENGLISH" value="166" />
       </map>
     </option>
   </component>
