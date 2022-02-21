@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/rhinoceros/sonar-p3c-pmd.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@git-ssh.ziel.cn:50022/eya-v3/eya-app-v3.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
